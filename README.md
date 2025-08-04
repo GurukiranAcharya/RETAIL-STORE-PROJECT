@@ -1,3 +1,8 @@
+Dashboard Preview:
+<img width="1366" height="768" alt="Screenshot 2025-08-04 111627" src="https://github.com/user-attachments/assets/5ca3e8d3-d62b-4048-93ed-5567bf1a5d82" />
+
+
+
 #Retail Store Sales Dashboard – Power BI Project
 
 This is a professional, interactive **Retail Sales Dashboard** created using **Power BI** to analyze and visualize the performance of a fictional retail store. The dashboard is designed to help business stakeholders track key sales metrics, monitor trends, and gain insights into product and regional performance.
